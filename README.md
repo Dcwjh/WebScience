@@ -1,5 +1,6 @@
 # 项目介绍
 
+- 军事类知识图谱
 [military_crawler](military_kg/military_crawler): 是数据采集的项目
 
 [data_process](military_kg/data_process): 是数据处理的项目
